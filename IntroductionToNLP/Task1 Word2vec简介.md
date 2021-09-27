@@ -17,7 +17,7 @@ Library：Pytorch
 - 词向量
 - Word2vec语言模型的简要介绍
 - 优化简介：梯度下降
-
+ 
 
 
 ![image-20200607163700334](https://img-blog.csdnimg.cn/20200816122910403.png)
