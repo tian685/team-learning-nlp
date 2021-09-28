@@ -18,3 +18,9 @@ The word2vec tool takes a **text corpus** as input and produces the **word vecto
 two main learning algorithms:
 - [bag-of-words](https://arxiv.org/pdf/1301.3781.pdf)
 - [skip-gram](https://arxiv.org/pdf/1310.4546.pdf)
+
+### 初步流程
+- 1.读取数据集,需要**spacy**对字符串处理并进行**split**分割train,valitation,test-data,用**iterator**.
+- 2.通过nn.model()构建模型,初始化参数,Embedding处理,自定义layers
+- 3.搭建优化器optimzation,损失函数loss,定义输出层output
+- 4.train(),evaluate()
