@@ -30,3 +30,7 @@ two main learning algorithms:
 ![](Emotional_Analysis/assets/LSTM.png)
 
 
+## [RNN参数解释](https://www.bilibili.com/video/BV1dZ4y1g7DE?p=3&spm_id_from=pageDriver)
+- hi代表memory及更新,上下文或相邻word之间的联系语义
+- $$x$$i输入batch.size vectors
+- https://github.com/statisticszhang/Deep-Learning-with-PyTorch-Tutorials
