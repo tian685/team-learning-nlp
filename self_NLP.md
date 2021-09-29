@@ -24,3 +24,7 @@ two main learning algorithms:
 - 2.通过nn.model()构建模型,初始化参数,Embedding处理,自定义layers
 - 3.搭建优化器optimzation,损失函数loss,定义输出层output
 - 4.train(),evaluate()
+
+## LSTM
+
+![](assets/LSTM.png)
