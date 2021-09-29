@@ -27,4 +27,6 @@ two main learning algorithms:
 
 ## LSTM
 
-![](assets/LSTM.png)
+![](Emotional_Analysis/assets/LSTM.png)
+
+
