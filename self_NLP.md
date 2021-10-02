@@ -41,6 +41,7 @@ two main learning algorithms:
 - NLP四大任务：分类、生成、序列标注、句子对标注
 - ### LSTM-CRE
 - ### BERT-CRE
+- [fastnlp](https://fastnlp.readthedocs.io/zh/v0.5.0/tutorials/tutorial_9_seq_labeling.html)
 
 类型|说明
 --|--|
