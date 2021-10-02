@@ -34,3 +34,19 @@ two main learning algorithms:
 - hi代表memory及更新,上下文或相邻word之间的联系语义
 - $Xi$输入batch.size vectors
 - (https://github.com/statisticszhang/Deep-Learning-with-PyTorch-Tutorials)
+
+
+
+# 命名实体识别（Named Entity Recognition NER）
+- NLP四大任务：分类、生成、序列标注、句子对标注
+- ### LSTM-CRE
+- ### BERT-CRE
+
+类型|说明
+--|--|
+B|Begin，代表实体片段的开始
+I|Internediate，代表实体片段的中间
+M|Middle，代表实体片段的中间
+E|End，代表实体片段的结束
+S|Single，代表实体片段为单个字
+O|Other，代表字符不为任何实体
